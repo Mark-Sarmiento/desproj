@@ -34,6 +34,8 @@ class AuthService {
 	async logout() {
 		await signOut(this.auth);
 	}
+
+	
 }
 
 export default new AuthService(getApp());
