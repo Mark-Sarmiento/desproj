@@ -1,7 +1,6 @@
 import React from 'react';
 import Sidebar from './Sidebar';
 import { withProtected } from "../hook/route";
-import Admin from '@/pages/admin';
 
 function Layout({}) {
   return (
