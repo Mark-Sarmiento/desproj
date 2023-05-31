@@ -8,7 +8,7 @@ function Layout({}) {
     <div className="h-screen  flex flex-row justify-start">
         <Sidebar />
         
-        <div className = "bg-primary flex-1 p-4 text-black" >
+        <div className = "bg-black flex-1 p-4 text-white" >
             asdasdasd
         </div>  
     </div>

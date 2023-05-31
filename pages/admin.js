@@ -5,7 +5,7 @@ function Admin({ auth }) {
 	const { logout } = auth;
 	return (
 		<>
-			<button onClick={logout}>Logout</button>
+			<button className='' onClick={logout}>Logout</button>
 			
 		</>
 	);
